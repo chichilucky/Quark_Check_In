@@ -1,7 +1,9 @@
 # 夸克网盘自动签到
 
 > 特别鸣谢：根据 https://github.com/Liu8Can/Quark_Auot_Check_In    项目修改而来。任何对项目的修改和发布必须保留原作者署名。
+>
 > 本项目实现了夸克网盘的自动签到功能，通过 GitHub Actions 自动执行，领取每日签到奖励空间，让用户无需手动签到。
+>
 > 本项目基于 `BNDou`大佬的项目中夸克网盘自动签到的子功能 https://github.com/BNDou/Auto_Check_In 修改而来
 
 ## 🚀 功能简介
